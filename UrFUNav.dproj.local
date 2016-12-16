@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="0123456789ABCDEF"/>
+	</ActiveMobileDevice>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.297,C:\VCS\Bitbucket\UrFUNav\TabbedFormwithNavigation.fmx=C:\VCS\Bitbucket\UrFUNav\NavigatorMain.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.251,C:\VCS\Bitbucket\UrFUNav\TabbedwithNavigation.dproj=C:\VCS\Bitbucket\UrFUNav\UrFUNav.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.297,C:\VCS\Bitbucket\UrFUNav\TabbedFormwithNavigation.pas=C:\VCS\Bitbucket\UrFUNav\NavigatorMain.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,37 @@
+inherited Navigator_Windows: TNavigator_Windows
+  DesignerMasterStyle = 0
+  inherited TabControl2: TTabControl
+    Sizes = (
+      405s
+      596s
+      405s
+      596s)
+    inherited TabItem5: TTabItem
+      ExplicitSize.cx = 8.000000000000000000
+      ExplicitSize.cy = 8.000000000000000000
+      inherited Panel1: TPanel
+        inherited ComboEdit1: TComboEdit
+          Padding.Top = 50.000000000000000000
+        end
+      end
+    end
+    inherited TabItem6: TTabItem
+      ExplicitSize.cx = 8.000000000000000000
+      ExplicitSize.cy = 8.000000000000000000
+      inherited ToolBar2: TToolBar
+        inherited btnBack: TSpeedButton
+          Size.Width = 60.000000000000000000
+        end
+      end
+      inherited Panel3: TPanel
+        inherited SpeedButton1: TSpeedButton
+          Position.X = 240.000000000000000000
+          Size.Width = 155.000000000000000000
+        end
+        inherited SpeedButton2: TSpeedButton
+          Size.Width = 135.000000000000000000
+        end
+      end
+    end
+  end
+end

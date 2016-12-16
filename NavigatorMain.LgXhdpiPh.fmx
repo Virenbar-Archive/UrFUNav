@@ -1,0 +1,58 @@
+inherited Navigator_LgXhdpiPh: TNavigator_LgXhdpiPh
+  ClientHeight = 695
+  ClientWidth = 450
+  DesignerMasterStyle = 0
+  inherited TabControl2: TTabControl
+    Size.Width = 450.000000000000000000
+    Size.Height = 695.000000000000000000
+    TabIndex = 1
+    Sizes = (
+      450s
+      695s
+      450s
+      695s)
+    inherited TabItem5: TTabItem
+      IsSelected = False
+      ExplicitSize.cx = 8.000000000000000000
+      ExplicitSize.cy = 8.000000000000000000
+      inherited ToolBar1: TToolBar
+        Size.Width = 450.000000000000000000
+        inherited lblTitle1: TLabel
+          Size.Width = 450.000000000000000000
+        end
+        inherited btnNext: TSpeedButton
+          Position.X = 385.000000000000000000
+        end
+      end
+      inherited Panel1: TPanel
+        inherited ComboEdit1: TComboEdit
+          Padding.Top = 50.000000000000000000
+        end
+      end
+    end
+    inherited TabItem6: TTabItem
+      IsSelected = True
+      ExplicitSize.cx = 8.000000000000000000
+      ExplicitSize.cy = 8.000000000000000000
+      inherited ToolBar2: TToolBar
+        Size.Width = 450.000000000000000000
+        inherited lblTitle2: TLabel
+          Size.Width = 450.000000000000000000
+        end
+      end
+      inherited Panel3: TPanel
+        Position.Y = 619.000000000000000000
+        Size.Width = 450.000000000000000000
+        inherited SpeedButton1: TSpeedButton
+          Position.X = 392.000000000000000000
+          Position.Y = 14.000000000000000000
+          Size.Height = 48.000000000000000000
+        end
+        inherited SpeedButton2: TSpeedButton
+          Position.Y = 14.000000000000000000
+          Size.Height = 48.000000000000000000
+        end
+      end
+    end
+  end
+end
